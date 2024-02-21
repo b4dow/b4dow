@@ -8,7 +8,7 @@
 
 <br>
 
-- Soy un apasionado desarrollador con 4 meses de experiencia en el bootcamp de Henry. Durante este tiempo, he adquirido habilidades en React, Express, Node.js, y PostgreSQL. Además, poseo habilidades sociales que me permiten interactuar efectivamente con otros y trabajar en equipo. Mi objetivo es seguir creciendo como profesional y contribuir al mundo de la tecnología.
+- Soy un apasionado desarrollador con proyecto propios y mas proyectos pequeños para clientes. Durante este tiempo, he adquirido habilidades en React, React Router, NodeJS, Express, Redux, Sequelize ,Node.js, Vercel, tailwindCSS y PostgreSQL. Además, poseo habilidades sociales que me permiten interactuar efectivamente con otros y trabajar en equipo. Mi objetivo es seguir creciendo como profesional y contribuir al mundo de la tecnología.
 
 <br><br>
 
